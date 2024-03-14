@@ -2,7 +2,7 @@
 
 ![Design preview for the Fylo landing page with two column layout coding challenge](https://raw.githubusercontent.com/nurularifin83/fylo-landing-page-with-two-column-layout-master/main/feature%20image.png)
 
-This is a solution to the [Fylo landing page with two column layout solution challenge on Frontend Mentor](). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Fylo landing page with two column layout solution challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-fylo-landing-page-using-bootstrap-Bnw_d9OB4I). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ This is a solution to the [Fylo landing page with two column layout solution cha
 
 ### Links
 
-- Solution URL: [Solution URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-fylo-landing-page-using-bootstrap-Bnw_d9OB4I)
 - Live Site URL: [Live site URL here](https://nurularifin83.github.io/fylo-landing-page-with-two-column-layout-master/)
 
 ## My process
