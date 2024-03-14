@@ -19,7 +19,7 @@ This is a solution to the [Fylo landing page with two column layout solution cha
 ### Links
 
 - Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Live Site URL: [Live site URL here](https://nurularifin83.github.io/fylo-landing-page-with-two-column-layout-master/)
 
 ## My process
 
