@@ -1,0 +1,17 @@
+.footer-link { 
+    font-size: 12px;
+    a:hover {
+        color: $bright-blue;
+    }
+}
+
+.footer {
+    background-color: $very-dark-blue;
+    color: $light-grayish-blue;
+    i {
+        font-size: 1.562rem;
+    }
+    .fylo {
+        fill: $light-grayish-blue;
+    }
+}

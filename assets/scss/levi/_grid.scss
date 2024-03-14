@@ -1,0 +1,19 @@
+@include xs {
+    .bg-img {
+        background: url(../../../assets/images/bg-curve-desktop.svg);
+        background-repeat: no-repeat, repeat;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+@include lg {
+    .bg-img {
+        background: url(../../../assets/images/bg-curve-desktop.svg);
+        background-repeat: no-repeat, repeat;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}

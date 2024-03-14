@@ -1,0 +1,19 @@
+/*Bootstrap*/
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+/*Varibale and functions*/
+@import 'levi/variables';
+@import 'levi/functions';
+
+/*Base, breakpoints and grid*/
+@import 'levi/base';
+@import 'levi/breakpoints';
+@import 'levi/grid';
+
+/*Components*/
+@import 'levi/components/header';
+@import 'levi/components/footer';
+@import 'levi/components/main';
+
+/*Utilities (Padding and Margin)*/
+@import 'levi/utilities';

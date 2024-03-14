@@ -1,0 +1,6 @@
+$margins: 1;
+@each $m in $margins {
+    .section-#{$m} {
+        margin:  96px 0;
+    }
+}

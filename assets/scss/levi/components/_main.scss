@@ -1,0 +1,24 @@
+.section-2 {
+    p {
+        a {
+            color: $moderate-cyan;
+            border-bottom: 1px solid $moderate-cyan;
+            padding-bottom: 3px;
+        }
+    }
+    .card {
+        max-width: 25rem;
+        .position {
+            font-size: 12px;
+        }
+    }
+    .sec2-detail {
+        margin-bottom: 96px;
+        padding-top: 96px;
+    }
+}
+
+.section-3 {
+    background-color: $desaturated-blue;
+    color: $light-grayish-blue;
+}
