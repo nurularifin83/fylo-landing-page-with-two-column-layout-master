@@ -976,6 +976,10 @@ button:not(:disabled),
   margin-bottom: 1.5rem !important;
 }
 
+.mb-5 {
+  margin-bottom: 3rem !important;
+}
+
 .ms-0 {
   margin-left: 0 !important;
 }
@@ -1117,7 +1121,6 @@ a {
 }
 .section-2 .sec2-detail {
   margin-bottom: 96px;
-  padding-top: 96px;
 }
 
 .section-3 {
