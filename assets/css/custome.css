@@ -1073,7 +1073,7 @@ a {
 
 @media (min-width: 375px) {
   .bg-img {
-    background: url(../../../assets/images/bg-curve-desktop.svg);
+    background: url(https://raw.githubusercontent.com/nurularifin83/fylo-landing-page-with-two-column-layout-master/eea69904e5f741094155e9d85225d6fe09403ebf/assets/images/bg-curve-mobile.svg);
     background-repeat: no-repeat, repeat;
     background-position: center;
     background-repeat: no-repeat;
@@ -1082,7 +1082,7 @@ a {
 }
 @media (min-width: 1440px) {
   .bg-img {
-    background: url(../../../assets/images/bg-curve-desktop.svg);
+    background: url(https://raw.githubusercontent.com/nurularifin83/fylo-landing-page-with-two-column-layout-master/eea69904e5f741094155e9d85225d6fe09403ebf/assets/images/bg-curve-desktop.svg);
     background-repeat: no-repeat, repeat;
     background-position: center;
     background-repeat: no-repeat;
